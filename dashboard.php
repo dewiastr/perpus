@@ -33,6 +33,7 @@ if (isset($_GET['id'])) {
       <ul class="navbar-nav me-auto">
         <li class="nav-item"><a class="nav-link active" href="index.php">Home</a></li>
         <li class="nav-item"><a class="nav-link" href="create.php">Tambah Data</a></li>
+        <li class="nav-item"><a class="nav-link" href="user.php">Data User</a></li>
       </ul>
       <a href="index.php"><button class="btn btn-danger">logout</button></a>
     </div>
